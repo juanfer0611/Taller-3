@@ -1,0 +1,75 @@
+
+
+
+html {height:100%}
+   body {position:absolute; height:100%;width: 100%; margin:0;padding:0}
+   #googleMap {height:100%;
+      width: 100%;
+position: relative;
+top: 0;
+left: 0;
+   }
+
+body{
+    background-color: white;
+}
+
+header>img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section{
+    height: 439px;
+    width: 100%;
+
+}
+
+footer>ul{
+    
+    list-style: none; 
+    position: relative; 
+   
+    margin-top: -5px;
+    left: 21%;
+}
+
+button{
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -4px;
+    padding: 0px;
+}
+
+#map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+      }
+
+ul>li{
+
+    display: inline-block;
+    border-radius: 15px;
+    margin-left: 10px;
+
+}
+
+canvas#center { 
+    border: 3px dashed white;  
+    padding: 0px;
+    border-radius: 15px;
+    background-color: rgba(0,0,0,0.8);
+}
+
+footer{
+    background-color: #eccb2e;
+}
+
+header{
+    background-color: black;
+}
+
+
